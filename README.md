@@ -5,6 +5,9 @@ This repository will help in creating the AWS Lambda Function, which will connec
 # Tech Stack 
 
 
+## Assumption
+      DB is already created with some table and access on AWS cloud. 
+      
 ## Steps Required for Project Setup
       1- Install Python3.6 or 3.8
       2- Create a lambda project in python
@@ -27,6 +30,7 @@ This repository will help in creating the AWS Lambda Function, which will connec
  References 
  
  SSL Certificate 
+             
              https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html
              https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Concepts.General.SSL.html#PostgreSQL.Concepts.General.SSL.Connecting
              https://gist.github.com/pfigue/3440e2bc986550a6b8ec
