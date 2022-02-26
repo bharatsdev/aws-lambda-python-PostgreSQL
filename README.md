@@ -26,6 +26,12 @@ This repository will help in creating the AWS Lambda Function, which will connec
  
  References 
  
+ SSL Certificate 
+ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html
+ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Concepts.General.SSL.html#PostgreSQL.Concepts.General.SSL.Connecting
+ https://gist.github.com/pfigue/3440e2bc986550a6b8ec
+ https://help.compose.com/docs/postgresql-and-python
+ https://github.com/jkehler/awslambda-psycopg2
  
 
 
